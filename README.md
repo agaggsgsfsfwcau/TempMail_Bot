@@ -1,8 +1,8 @@
 <h1 align="center">TempMail Telegram Bot 💌</h1>
 
 <p align="center">
-  <a href="https://github.com/bisnuray/TempMail-Bot/stargazers"><img src="https://img.shields.io/github/stars/agaggsgsfsfwcau/TempMail_Bot?color=blue&style=flat" alt="GitHub Repo stars"></a>
-  <a href="https://github.com/bisnuray/TempMail-Bot/issues"><img src="https://img.shields.io/github/issues/agaggsgsfsfwcau/TempMail_Bot" alt="GitHub issues"></a>
+  <a href="https://github.com/agaggsgsfsfwcau/TempMail_Bot/stargazers"><img src="https://img.shields.io/github/stars/agaggsgsfsfwcau/TempMail_Bot?color=blue&style=flat" alt="GitHub Repo stars"></a>
+  <a href="https://github.com/agaggsgsfsfwcau/TempMail_Bot/issues"><img src="https://img.shields.io/github/issues/agaggsgsfsfwcau/TempMail_Bot" alt="GitHub issues"></a>
   <a href="https://github.com/agaggsgsfsfwcau/TempMail_Bot/pulls"><img src="https://img.shields.io/github/issues-pr/agaggsgsfsfwcau/TempMail_Bot" alt="GitHub pull requests"></a>
   <a href="https://github.com/agaggsgsfsfwcau/TempMail_Bot/graphs/contributors"><img src="https://img.shields.io/github/contributors/agaggsgsfsfwcau/TempMail_Bot?style=flat" alt="GitHub contributors"></a>
   <a href="https://github.com/agaggsgsfsfwcau/TempMail_Bot/network/members"><img src="https://img.shields.io/github/forks/agaggsgsfsfwcau/TempMail_Bot?style=flat" alt="GitHub forks"></a>
